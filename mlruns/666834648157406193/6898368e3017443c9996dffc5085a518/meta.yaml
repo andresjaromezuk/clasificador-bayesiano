@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/andresjaromezuk/Desktop/DEEPLEARNING/TPS/clasificador-bayesiano/mlruns/666834648157406193/6898368e3017443c9996dffc5085a518/artifacts
+end_time: 1720566000863
+entry_point_name: ''
+experiment_id: '666834648157406193'
+lifecycle_stage: active
+run_id: 6898368e3017443c9996dffc5085a518
+run_name: GaussianNB
+run_uuid: 6898368e3017443c9996dffc5085a518
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720565987575
+status: 3
+tags: []
+user_id: andresjaromezuk

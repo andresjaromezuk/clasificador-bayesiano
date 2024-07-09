@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/andresjaromezuk/Desktop/DEEPLEARNING/TPS/clasificador-bayesiano/mlruns/666834648157406193/e87923cd2d8c4f64bdb8e4685b2ee832/artifacts
+end_time: 1720566598883
+entry_point_name: ''
+experiment_id: '666834648157406193'
+lifecycle_stage: active
+run_id: e87923cd2d8c4f64bdb8e4685b2ee832
+run_name: QuadraticDiscriminantAnalysis
+run_uuid: e87923cd2d8c4f64bdb8e4685b2ee832
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720566546611
+status: 3
+tags: []
+user_id: andresjaromezuk
